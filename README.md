@@ -1,71 +1,87 @@
 # Hi there! 👋 I'm Ritik Sharma
 
-Passionate Software Engineer | Java | Spring Boot | Agile Enthusiast
+**AI/ML Engineer** | **Microservices Architect** | **Java Developer** | **Full-Stack Engineer**
 
-Welcome to my GitHub profile! I'm thrilled to have you here. Let me tell you a bit about myself:
+🚀 **Crafting intelligent solutions with AI and enterprise Java expertise**
 
-## About Me
+Welcome to my GitHub! I'm a passionate engineer with **4+ years of experience** crafting AI-driven applications and robust backend systems. I specialize in transforming complex business problems into elegant technical solutions using cutting-edge AI/ML technologies and battle-tested Java frameworks.
 
-I'm a results-driven software engineer with a strong foundation in Java and expertise in building robust applications using Spring Boot. My journey in the tech world has been an exciting one, marked by a keen ability to quickly adapt to new technologies and frameworks. I thrive in dynamic environments where innovation and collaboration are key, and I'm always eager to take on new challenges.
+## 🎯 What I Do
 
-## What I Do
+🤖 **AI/ML Engineering**: Building production-ready LLM applications with RAG architectures, vector databases, and advanced prompt engineering
 
-- 💻 Java Enthusiast: Java is not just a programming language for me; it's a canvas on which I paint intricate solutions to complex problems.
+🏗️ **Microservices Architecture**: Designing and implementing scalable distributed systems with Spring Boot, event-driven patterns, and containerized deployments
 
-- 🌱 Spring Boot Aficionado: I have a knack for harnessing the power of Spring Boot to develop scalable and efficient backend systems.
+☕ **Enterprise Java Development**: Architecting robust backend solutions with Spring ecosystem, implementing clean architecture patterns, and optimizing high-performance applications
 
-- 🚀 Learning Never Stops: I believe in staying updated with the latest industry trends. I'm not afraid to dive into new technologies and quickly translate that knowledge into practical solutions.
+⚡ **Backend Architecture**: Creating fault-tolerant APIs and distributed systems with Spring Security, Spring Data, and Spring Cloud
 
-- 👨‍💻 Problem Solver: I take pride in my analytical approach to problem-solving. Debugging and optimizing code is where the real magic happens!
+🔧 **Full-Stack Development**: Creating seamless end-to-end experiences from React frontends to Spring Boot backends
 
-## My Principles
+## 💡 Technical Expertise
 
-- 🤝 Collaborative Spirit: I thrive in agile, cross-functional teams. I believe that diverse perspectives lead to the most innovative solutions.
+- 🏗️ **Microservices Specialist**: Expert in designing scalable distributed systems using Spring Boot, Docker, Kubernetes, and service mesh architectures
+- ☕ **Java Mastery**: Deep expertise in Java features, multithreading, performance optimization, and memory management
+- 🌱 **Spring Ecosystem**: Building enterprise-grade applications with Spring Boot, Spring Cloud, and containerized microservice deployments
+- 🎯 **Cost-effective AI Solutions** through intelligent cloud architecture optimization
+- 🔍 **Enhanced Semantic Search** with custom RAG implementations and vector databases
+- ⏱️ **Efficient Document Processing** through smart AI integration
+- 🚀 **High-availability Systems** with real-time AI-powered applications
 
-- 📚 Lifelong Learner: The tech landscape evolves rapidly, and I'm committed to continuous learning to stay ahead of the curve.
-
-- 🌟 Quality Matters: I'm not just interested in making things work; I'm dedicated to crafting elegant, maintainable, and high-quality code.
-
-## Let's Connect!
-
-Whether you're here to explore my projects or collaborate on something exciting, feel free to reach out. Let's connect and build amazing things together!
-
-📫 Feel free to connect with me through the social platforms listed below.
-
-## 🌐 Socials:
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-sharma-b14149190/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rickors560) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20889523/ritik-sharma)
 
-# 💻 Tech Stack:
+# 🛠️ Tech Arsenal
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat-square&logo=ant-design&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=flat-square&logo=reactivex&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=flat-square&logo=rancher&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat-square&logo=ant-design&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
+## **☕ Java & Spring Ecosystem**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=Spring-Security&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white)
 
-# 📊 GitHub Stats:
+## **🤖 AI/ML & Data Science**
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=flat-square) ![LangChain](https://img.shields.io/badge/🦜%20LangChain-1C3C3C?style=flat-square)
+
+## **⚡ Backend & APIs**
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka)
+
+## **🎨 Frontend & UI**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
+
+## **☁️ Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+
+## **🗄️ Databases & Vector Stores**
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=flat-square) ![Chroma](https://img.shields.io/badge/Chroma%20DB-FF6B6B?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=flat-square)
+
+## **🔧 Development Tools**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+# 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=rickors560&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rickors560&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rickors560&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=rickors560&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=rickors560&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-
 ![](https://github-contributor-stats.vercel.app/api?username=rickors560&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+---
 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+## 🚀 Current Focus
 
-Thanks for visiting! Enjoy your stay and feel free to explore the repositories. Your feedback is always appreciated.
+- 🔬 **Advanced RAG Architectures** - Pushing the boundaries of semantic search and retrieval
+- 🤖 **Agentic AI Systems** - Building autonomous AI agents that think and act
+- 🏗️ **Distributed Microservices** - Crafting scalable enterprise architectures with Spring Cloud and service mesh patterns
+- 🌱 **Java Performance Optimization** - Exploring JVM tuning and multithreading techniques
+- ⚡ **Event-Driven Architecture** - Building resilient systems with Kafka and reactive programming patterns
 
-## Happy coding! 🚀
+---
+
+**Thanks for stopping by!** 🎉 Dive into my repositories and let's connect if you're passionate about AI, microservices architecture, or building enterprise-grade distributed systems. Together, we can code the future! 
 
 [![](https://visitcount.itsvg.in/api?id=rickors560&icon=7&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
